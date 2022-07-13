@@ -41,6 +41,7 @@ out**Contributors**
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
 - [ARKARLIN](https://github.com/christopher4RY)
+- [Jason Kaminski](https://github.com/jasonminski)
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
 - [xaim_em] (https://github.com/axaiem)
